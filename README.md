@@ -1,3 +1,6 @@
+# Work In Progress
+Copied in the USB-C port from the ArisuTea port.
+
 # 𝕬𝖉𝖊𝖑𝖍𝖊𝖎𝖉
 
 The Adelheid is a 75% Alice-like keyboard.  
