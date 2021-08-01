@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WS2812B_Mini
+D RGB LED with integrated controller
+K RGB LED NeoPixel Mini addressable
+F https://datasheet.lcsc.com/lcsc/1811041130_Worldsemi-WS2812B-Mini_C114583.pdf
+$ENDCMP
+#
+#End Doc Library

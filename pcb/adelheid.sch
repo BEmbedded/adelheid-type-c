@@ -1220,10 +1220,6 @@ F21 "col14" T L 7500 4900 50
 F22 "row5" B L 7500 3300 50 
 F23 "ledGND" B L 7500 5100 50 
 $EndSheet
-Wire Bus Line
-	6750 2750 6750 5800
-Wire Bus Line
-	7050 2650 7050 5800
 $Comp
 L power:VCC #PWR0103
 U 1 1 67AEB0EF
@@ -1235,4 +1231,8 @@ F 3 "" H 1650 6000 50  0001 C CNN
 	1    1650 6000
 	1    0    0    -1  
 $EndComp
+Wire Bus Line
+	6750 2750 6750 5800
+Wire Bus Line
+	7050 2650 7050 5800
 $EndSCHEMATC
